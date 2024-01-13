@@ -1,1 +1,2 @@
-amazon.username=rakeshjalsa
+aws.username=rakeshjalsa
+
